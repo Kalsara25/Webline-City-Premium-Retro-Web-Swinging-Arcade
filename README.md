@@ -27,4 +27,4 @@ Open `index.html` directly in any modern browser.
 For GitHub Pages, visit:
 
 ```text
- https://Kalsara25.github.io/webline-city/
+ https://github.com/Kalsara25/Webline-City-Premium-Retro-Web-Swinging-Arcade/
