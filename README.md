@@ -27,6 +27,4 @@ Open `index.html` directly in any modern browser.
 For GitHub Pages, visit:
 
 ```text
-https://Kalsara25<img width="622" height="876" alt="Screenshot 2026-10-17 234815" src="https://github.com/user-attachments/assets/94907286-15f1-4f09-8eb5-79926985a1ee" />
-<img width="670" height="895" alt="Screenshot 2026-10-17 234754" src="https://github.com/user-attachments/assets/a3a7d3a0-90d6-46ec-964d-c1f336eba8cc" />
-.github.io/webline-city/
+ src="https://github.com/user-attachments/assets/94907286-15f1-4f09-8eb5-79926985a1ee" />
