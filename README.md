@@ -27,4 +27,4 @@ Open `index.html` directly in any modern browser.
 For GitHub Pages, visit:
 
 ```text
- src="https://github.com/user-attachments/assets/94907286-15f1-4f09-8eb5-79926985a1ee" />
+ https://Kalsara25.github.io/webline-city/
